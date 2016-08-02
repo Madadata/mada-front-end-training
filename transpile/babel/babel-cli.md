@@ -26,7 +26,7 @@
 4. install babel-presets
 	
 	```
-	$ npm install babel-preset-es2015
+	$ npm install babel-preset-es2015 --save-dev
 	```
 	
 5. run babel with presets
