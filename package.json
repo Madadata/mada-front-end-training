@@ -1,0 +1,16 @@
+{
+  "name": "front-end-training",
+  "version": "0.0.1",
+  "description": "training plan for madadata front-end engineers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zheng He <zhenghe@madadata.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "6.11.4",
+    "babel-preset-es2015": "6.9.0",
+    "babel-preset-stage-0": "6.5.0"
+  }
+}
